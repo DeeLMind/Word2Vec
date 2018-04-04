@@ -1,0 +1,55 @@
+﻿Build started 2018/4/4 星期三 17:19:18.
+     1>Project "E:\Project\Word2Vec\Word2Vec\Word2Vec\Word2Vec.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt word2vec.cpp
+         word2vec.cpp
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(45): warning C4305: 'initializing' : truncation from 'double' to 'real'
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(50): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(58): warning C4244: 'argument' : conversion from '__int64' to 'double', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(60): warning C4244: 'argument' : conversion from '__int64' to 'double', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(65): warning C4244: 'argument' : conversion from '__int64' to 'double', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(67): warning C4244: '=' : conversion from '__int64' to 'int', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(99): warning C4244: 'return' : conversion from 'unsigned __int64' to 'int', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(132): warning C4244: 'argument' : conversion from '__int64' to 'size_t', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(136): warning C4244: '=' : conversion from '__int64' to 'int', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(137): warning C4244: 'return' : conversion from '__int64' to 'int', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(142): warning C4244: 'return' : conversion from '__int64' to 'int', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(150): warning C4244: 'argument' : conversion from '__int64' to 'size_t', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(152): warning C4244: '=' : conversion from '__int64' to 'int', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(167): warning C4244: 'argument' : conversion from '__int64' to 'size_t', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(201): warning C4244: 'argument' : conversion from '__int64' to 'size_t', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(202): warning C4244: 'argument' : conversion from '__int64' to 'size_t', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(203): warning C4244: 'argument' : conversion from '__int64' to 'size_t', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(205): warning C4244: '=' : conversion from 'double' to '__int64', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(245): warning C4244: '=' : conversion from '__int64' to 'char', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(251): warning C4244: '=' : conversion from '__int64' to 'char', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(252): warning C4244: '=' : conversion from '__int64' to 'int', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(255): warning C4244: '=' : conversion from '__int64' to 'int', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(344): warning C4244: 'argument' : conversion from '__int64' to 'size_t', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(347): warning C4244: 'argument' : conversion from '__int64' to 'size_t', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(353): warning C4244: 'argument' : conversion from '__int64' to 'size_t', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(360): warning C4244: '=' : conversion from 'double' to 'real', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(372): warning C4244: 'argument' : conversion from '__int64' to 'size_t', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(373): warning C4244: 'argument' : conversion from '__int64' to 'size_t', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(375): warning C4244: 'argument' : conversion from '__int64' to 'long', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(388): warning C4244: '=' : conversion from 'double' to 'real', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(416): warning C4244: 'argument' : conversion from '__int64' to 'long', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(574): warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(575): warning C4244: 'argument' : conversion from '__int64' to 'size_t', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(576): warning C4244: 'argument' : conversion from '__int64' to 'size_t', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(578): warning C4244: 'argument' : conversion from '__int64' to 'size_t', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(686): warning C4305: '=' : truncation from 'double' to 'real'
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(687): warning C4244: '=' : conversion from 'double' to 'real', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(690): warning C4244: '=' : conversion from 'double' to 'real', possible loss of data
+     1>e:\project\word2vec\word2vec\word2vec\word2vec.cpp(697): warning C4244: 'argument' : conversion from '__int64' to 'size_t', possible loss of data
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Project\Word2Vec\Word2Vec\Debug\Word2Vec.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Project\Word2Vec\Word2Vec\Debug\Word2Vec.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Project\Word2Vec\Word2Vec\Debug\Word2Vec.lib" /MACHINE:X86 Debug\word2vec.obj
+     1>word2vec.obj : error LNK2019: unresolved external symbol __imp__pthread_create referenced in function "void __cdecl TrainModel(void)" (?TrainModel@@YAXXZ)
+     1>word2vec.obj : error LNK2019: unresolved external symbol __imp__pthread_exit referenced in function "void * __cdecl TrainModelThread(void *)" (?TrainModelThread@@YAPAXPAX@Z)
+     1>word2vec.obj : error LNK2019: unresolved external symbol __imp__pthread_join referenced in function "void __cdecl TrainModel(void)" (?TrainModel@@YAXXZ)
+     1>E:\Project\Word2Vec\Word2Vec\Debug\Word2Vec.exe : fatal error LNK1120: 3 unresolved externals
+     1>Done Building Project "E:\Project\Word2Vec\Word2Vec\Word2Vec\Word2Vec.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.00

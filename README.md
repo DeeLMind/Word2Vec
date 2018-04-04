@@ -1,2 +1,7 @@
 # Word2Vec
-Word2Vec EXE Windows
+Word2Vec For Windows
+
+包含VS2013工程文件
+包含可执行程序
+
+包含以来pthread库
